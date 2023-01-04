@@ -1,3 +1,5 @@
+//review - second attempt
+
 var favColours = []
 var answer
 
