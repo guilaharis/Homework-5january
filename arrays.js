@@ -1,6 +1,4 @@
-
-// hey! please review my commit
-
+//review - second attempt
 
 var favColours = []
 var answer
